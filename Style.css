@@ -1,0 +1,13 @@
+.landing-page-image {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 600px;
+	position: relative;
+}
+
+h1 {
+	color: black;
+	position: absolute;
+	font-family: sans-serif;
+}
